@@ -252,12 +252,32 @@
   @media (max-width: 480px) {
     main .boxB .cards__card p {
         margin-top: 10px;
-        font-size: 10px;
+        font-size: 8px;
       }
       main .box .cards__card p {
         margin-top: 10px;
-        font-size: 10px;
+        font-size: 8px;
       }
+
+      main .box {
+        height: auto;
 
     
   }
+ 
+
+  main .box .cards {
+    height: auto;
+  }
+  main .box .cards__card {
+    
+    height: auto;
+    
+  }
+
+  body {
+    
+    height: auto;
+    
+  }
+}
