@@ -314,6 +314,11 @@
         font-size: 10px;
       }
 
+      main .box .cards__card--1 {
+        border: 14px solid #fbe7c6;
+        opacity: 100%;
+      }
+     
 
       /* main B query */
 
@@ -372,6 +377,11 @@
       main .boxB .cards__cardB p {
         margin-top: 10px;
         font-size: 10px;
+      }
+
+      main .boxB .cards__card--1B {
+        border: 14px solid #fbe7c6;
+        opacity: 100%;
       }
     
     
