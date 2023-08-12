@@ -300,7 +300,7 @@
       main .box .cards__card {
         background-color: lightgray;
         height: 400px;
-        width: 76vw;
+        width: auto;
         padding: 20px;
         opacity: 0%;
         overflow: scroll;
@@ -363,7 +363,7 @@
       main .boxB .cards__cardB {
         background-color: lightgray;
         height: 400px;
-        width: 76vw;
+        width: auto;
         padding: 20px;
         opacity: 0%;
         margin-left: 0px;
