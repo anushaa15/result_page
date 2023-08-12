@@ -60,11 +60,11 @@ $(".header__card--1").click(function() {
 //main 2
 
 $(".header__card--1B").click(function() {
-    $(".header__cardB").removeClass("header-active");
-    $(this).addClass("header-active");
+    $(".header__cardB").removeClass("headerB-active");
+    $(this).addClass("headerB-active");
     $(".cardsB").css("background-color", '#FBE7C6');
-    $(".cards__cardB").removeClass("card--active");
-    $(".cards__card--1B").addClass("card--active");
+    $(".cards__cardB").removeClass("cardB--active");
+    $(".cards__card--1B").addClass("cardB--active");
     $(".cards__cardB").css({
       opacity: '0%'
     });
@@ -74,11 +74,11 @@ $(".header__card--1B").click(function() {
   });
   
   $(".header__card--2B").click(function() {
-    $(".header__cardB").removeClass("header-active");
-    $(this).addClass("header-active");
-    $(".cards").css("background-color", '#B4F8C8');
-    $(".cards__cardB").removeClass("card--active");
-    $(".cards__card--2B").addClass("card--active");
+    $(".header__cardB").removeClass("headerB-active");
+    $(this).addClass("headerB-active");
+    $(".cardsB").css("background-color", '#B4F8C8');
+    $(".cards__cardB").removeClass("cardB--active");
+    $(".cards__card--2B").addClass("cardB--active");
     $(".cards__cardB").css({
       opacity: '0%'
     });
@@ -88,11 +88,11 @@ $(".header__card--1B").click(function() {
   });
   
   $(".header__card--3B").click(function() {
-    $(".header__cardB").removeClass("header-active");
-    $(this).addClass("header-active");
-    $(".cards").css("background-color", '#A0E7E5');
-    $(".cards__cardB").removeClass("card--active");
-    $(".cards__card--3B").addClass("card--active");
+    $(".header__cardB").removeClass("headerB-active");
+    $(this).addClass("headerB-active");
+    $(".cardsB").css("background-color", '#A0E7E5');
+    $(".cards__cardB").removeClass("cardB--active");
+    $(".cards__card--3B").addClass("cardB--active");
     $(".cards__cardB").css({
       opacity: '0%'
     });
@@ -102,11 +102,11 @@ $(".header__card--1B").click(function() {
   });
   
   $(".header__card--4B").click(function() {
-    $(".header__cardB").removeClass("header-active");
-    $(this).addClass("header-active");
-    $(".cards").css("background-color", '#FFAEBC');
-    $(".cards__cardB").removeClass("card--active");
-    $(".cards__card--4B").addClass("card--active");
+    $(".header__cardB").removeClass("headerB-active");
+    $(this).addClass("headerB-active");
+    $(".cardsB").css("background-color", '#FFAEBC');
+    $(".cards__cardB").removeClass("cardB--active");
+    $(".cards__card--4B").addClass("cardB--active");
     $(".cards__cardB").css({
       opacity: '0%'
     });
