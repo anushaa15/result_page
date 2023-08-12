@@ -247,3 +247,17 @@
   main .boxB .cardsB .cardB--active {
     transform: translateX(0px);
   }
+
+
+  @media (max-width: 480px) {
+    main .boxB .cards__card p {
+        margin-top: 10px;
+        font-size: 10px;
+      }
+      main .box .cards__card p {
+        margin-top: 10px;
+        font-size: 10px;
+      }
+
+    
+  }
